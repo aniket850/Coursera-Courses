@@ -19,6 +19,3 @@ Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-develope
   code url: https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/master/module5-solution
   Hosted url: https://kr-viku.github.io/Coursera-HTML-CSS-Javascript-for-Web-Developers/module5-solution/
   
-# Front Look
-
-![](front_look.png)
